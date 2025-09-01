@@ -1,2 +1,2 @@
-# IBMDS_OMA
+# IBMDS
 IBM DS Professional Certificate Labs
